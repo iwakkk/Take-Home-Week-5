@@ -1,0 +1,11 @@
+C:\Users\edwar\source\repos\Take Home Week 5\bin\Debug\Take Home Week 5.exe.config
+C:\Users\edwar\source\repos\Take Home Week 5\bin\Debug\Take Home Week 5.exe
+C:\Users\edwar\source\repos\Take Home Week 5\bin\Debug\Take Home Week 5.pdb
+C:\Users\edwar\source\repos\Take Home Week 5\obj\Debug\Take Home Week 5.csproj.AssemblyReference.cache
+C:\Users\edwar\source\repos\Take Home Week 5\obj\Debug\Take Home Week 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwar\source\repos\Take Home Week 5\obj\Debug\Take_Home_Week_5.Form1.resources
+C:\Users\edwar\source\repos\Take Home Week 5\obj\Debug\Take_Home_Week_5.Properties.Resources.resources
+C:\Users\edwar\source\repos\Take Home Week 5\obj\Debug\Take Home Week 5.csproj.GenerateResource.cache
+C:\Users\edwar\source\repos\Take Home Week 5\obj\Debug\Take Home Week 5.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\Take Home Week 5\obj\Debug\Take Home Week 5.exe
+C:\Users\edwar\source\repos\Take Home Week 5\obj\Debug\Take Home Week 5.pdb
